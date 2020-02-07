@@ -10,6 +10,8 @@
 1.  './data/' 可存放股票历史价格信息。其信息可在yahoo财经上进行直接下载
 2. './result' 为训练结果。仅供参考。
 3. 可修改步长，层数等参数。
+4. 预训练结果如下：
+![image](https://github.com/Bob-AFei/Stock_Prediction/blob/master/Result/5.png)
 4. 欢迎沟通交流！
 
 
